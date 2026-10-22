@@ -19,4 +19,3 @@ The calculator runs fully in the browser and does not require a Gemini API key.
 ## Deployment
 
 Every push to the `main` branch triggers the GitHub Actions workflow in `.github/workflows/deploy.yml`. It builds the Vite application and publishes the generated `dist` directory to GitHub Pages.
-
